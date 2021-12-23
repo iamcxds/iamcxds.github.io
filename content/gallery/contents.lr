@@ -1,0 +1,53 @@
+title: Gallery
+---
+_template: page_with_sidebar.html
+---
+body:
+
+Share some random things.
+
+## Videos
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GanmnPniO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A great documentary in French about looking for Grothendieck, both physically and spiritually. It was published one year before he passed away.
+
+Although there is a English subtitle which is only a little better than nothing, I am still working on a Chinese subtitle.
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnBWwh7I3aA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A video made with Blender. I try to show Hopf fibration in another way.
+
+***
+
+## Dog/Chien/Hund/狗/犬.
+
+***
+
+<img src="pas_chien.jpg"  width="300"/>
+
+*Ceci n'est pas un chien.*
+
+***
+
+>A monk asked, "Does a dog have a Buddha-nature or not?"
+>
+>The master said, "Not [Mu]!"
+>
+>The monk said, "Above to all the Buddhas, below to the crawling bugs, all have Buddha-nature. Why is it that the dog has not?"
+>
+>The master said, "Because he has the nature of karmic delusions".
+>
+> -*Zhao Zhou's Dog*
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cB7gd_t6WMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+<iframe src="https://store.steampowered.com/widget/842170/" frameborder="0" width="550" height="190"></iframe>
