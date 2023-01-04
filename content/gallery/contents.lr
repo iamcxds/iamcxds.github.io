@@ -1,6 +1,7 @@
-title: Gallery
+_model: page_with_sidebar
 ---
-_template: page_with_sidebar.html
+
+title: Gallery
 ---
 body:
 
@@ -24,11 +25,11 @@ A video made with Blender. I try to show Hopf fibration in another way.
 
 ***
 
-## Dog/Chien/Hund/狗/犬.
+## Dog/Chien/Hund/狗/犬
 
 ***
 
-<img src="pas_chien.jpg"  width="300"/>
+<img src="pas_chien.jpg"  width="95%"/>
 
 *Ceci n'est pas un chien.*
 
@@ -51,3 +52,11 @@ A video made with Blender. I try to show Hopf fibration in another way.
 ***
 
 <iframe src="https://store.steampowered.com/widget/842170/" frameborder="0" width="550" height="190"></iframe>
+
+---
+
+sidebar:
+
+#### About
+
+Take it easy.

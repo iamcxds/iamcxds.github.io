@@ -1,12 +1,8 @@
+_model: page_two_column
 
 
+---
 body:
-
-# Publications
-
-***
-
-- Keyao Peng. Milnor-witt motivic cohomology of complements of hyperplane arrangements, 2020 ([preprint](https://arxiv.org/abs/2005.12139))
 
 # Research Interests
 
@@ -23,3 +19,13 @@ body:
 - D-module and Algebraic analysis
 - Absolute(F1) geometry and Arithmetic topology
 - ...
+
+---
+
+right:
+
+# Publications
+
+***
+
+- Keyao Peng. Milnor-witt motivic cohomology of complements of hyperplane arrangements, 2020 ([preprint](https://arxiv.org/abs/2005.12139))

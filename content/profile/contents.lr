@@ -1,4 +1,4 @@
-_model : page
+_model : page_with_sidebar
 ---
 title: Profile and Contact
 ---
@@ -8,9 +8,16 @@ PhD Student at Université Grenoble Alpes,
 
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr/),
 
-***
 Advisor : [Jean Fasel](https://www-fourier.ujf-grenoble.fr/~faselj/index.html)
 
-Email : keyao[dot]peng[at]univ-grenoble-alpes[dot]fr
+***
 
 [Curriculum Vitae](CV.pdf)
+
+---
+
+sidebar:
+
+#### Email:
+
+ keyao[dot]peng[at]univ-grenoble-alpes[dot]fr

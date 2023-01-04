@@ -1,14 +1,23 @@
+_model: page_with_sidebar
+---
+
 title: Personal Interests
 ---
-_template: page_with_sidebar.html
----
+
 body:
 
 ***
 
 ## Origami
 
-I like to play with paper, like origami, paper model.
+I like to play with paper, like origami, paper models. Cutting, gluing, folding... are the same ways we create geometric shapes, manually or abstractly.
+
+<figure>
+<img src="IMG_1450.JPG"  width="100%"/>
+<figcaption>(This is a work I did in high school, whose design came from Escher)</figcaption>
+</figure>
+
+
 
 ## Game Development
 
@@ -23,3 +32,10 @@ Currently I have only one game demo, which is based on the idea of ramified cove
 As a mathematician, I prefer Functional programming language. Here is my [github](https://github.com/iamcxds).
 
 I am interested in type theory and linear logic. And I believe computer verifying proof would be the future of math. Recommend to look at [Lean](https://leanprover.github.io/) or [natural number game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
+
+---
+sidebar:
+
+#### About
+
+Introduce some of my activities outside of research. But since math is an important part of my life, everything is more or less related to math.
