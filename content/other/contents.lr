@@ -12,14 +12,11 @@ body:
 
 I like to play with paper, like origami, paper models. Cutting, gluing, folding... are the same ways we create geometric shapes, manually or abstractly.
 
-<figure>
-<img src="IMG_1450.JPG"  width="100%"/>
-<figcaption>(This is a work I did in high school, whose design came from Escher)</figcaption>
-</figure>
-<figure>
-<img src="pyramids.JPG"  width="100%"/>
-<figcaption>(Recent work of origami <a href="https://www.looneylabs.com/pyramids-home">Looney Pyramids</a>)</figcaption>
-</figure>
+![model](IMG_1450.JPG)
+(This is a work I made in high school, the design came from Escher)
+
+![pyramids](pyramids.jpg)
+(Recent work of origami [Looney Pyramids](https://www.looneylabs.com/pyramids-home))
 
 ## Game Development
 
